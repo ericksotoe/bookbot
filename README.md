@@ -1,3 +1,3 @@
 # bookbot
 
-BookBot is a python
+BookBot is my first project!
