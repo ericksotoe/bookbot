@@ -17,7 +17,7 @@ def char_count(book_text):
 def sort_on(items):
     return items['num']
 
-
+# func create the list of dicts
 def sort_dict(char_dict):
     sorted_list_of_dict = []
     for k in char_dict:
